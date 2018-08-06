@@ -1,0 +1,3 @@
+URL: stratum+tcp://stratum.slushpool.com:3333
+userID: userName.worker1
+password: 123456789
